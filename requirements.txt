@@ -1,10 +1,10 @@
-streamlit
-opencv-python-headless
-av
-numpy
-pillow
+
+streamlit>=1.40,<2
 ultralytics
-torch
-torchvision
+opencv-python-headless
+numpy<2
+av
+streamlit-webrtc
+pillow
 pandas
 plotly
